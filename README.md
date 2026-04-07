@@ -30,9 +30,5 @@ Email: muhammadanaas.334@gmail.com
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HAnas41&show_icons=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAnas41&layout=compact" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HAnas41&show_icons=true&theme=default" />
 </p>
