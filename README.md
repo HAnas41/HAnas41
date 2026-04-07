@@ -1,7 +1,28 @@
-**Hi, I'm Muhammad Anas 👋**
+**## Hi, I'm Muhammad Anas 👋**
 
-I'm a MERN Stack Developer who enjoys building modern, responsive, and user-friendly web applications. I work with React, Next.js, Node.js, and MongoDB to create complete full-stack solutions.
+MERN Stack Developer building modern and scalable web applications.
+Completed Frontend Developer Internship.
+Currently open to Web Developer opportunities.
 
-I’ve completed a Frontend Developer internship where I worked on real projects, improved performance, and collaborated with backend developers.
+---
 
-I’m a self-taught, growth-focused developer who loves solving problems and turning ideas into working products. I’m always learning, always building, and currently open to new opportunities as a Web Developer.
+### 🚀 Tech Stack
+- React, Next.js, TypeScript
+- Node.js, Express.js
+- MongoDB
+- Tailwind CSS
+- Git & GitHub
+
+---
+
+### 📌 What I Do
+- Build full-stack web applications
+- Create responsive and clean UI
+- Work with APIs and backend systems
+- Solve real-world problems with code
+
+---
+
+### 📫 Let's Connect
+LinkedIn: ...
+Email: ...
