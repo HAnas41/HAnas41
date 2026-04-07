@@ -1,4 +1,4 @@
-Hi, I'm Muhammad Anas 👋
+**Hi, I'm Muhammad Anas 👋**
 
 I'm a MERN Stack Developer who enjoys building modern, responsive, and user-friendly web applications. I work with React, Next.js, Node.js, and MongoDB to create complete full-stack solutions.
 
