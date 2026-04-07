@@ -7,22 +7,32 @@ Currently open to Web Developer opportunities.
 ---
 
 ### 🚀 Tech Stack
-- React, Next.js, TypeScript
-- Node.js, Express.js
-- MongoDB
-- Tailwind CSS
-- Git & GitHub
+
+Frontend: React, Next.js, TypeScript, Tailwind CSS  
+Backend: Node.js, Express.js  
+Database: MongoDB  
+Tools: Git, GitHub
 
 ---
 
 ### 📌 What I Do
-- Build full-stack web applications
-- Create responsive and clean UI
-- Work with APIs and backend systems
-- Solve real-world problems with code
+- Build end-to-end full-stack applications
+- Design clean and responsive user interfaces
+- Develop REST APIs and backend systems
+- Optimize performance and user experience
 
 ---
 
 ### 📫 Let's Connect
 LinkedIn: www.linkedin.com/in/anas41
 Email: muhammadanaas.334@gmail.com
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HAnas41&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAnas41&layout=compact" />
+</p>
