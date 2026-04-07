@@ -24,5 +24,5 @@ Currently open to Web Developer opportunities.
 ---
 
 ### 📫 Let's Connect
-LinkedIn: ...
-Email: ...
+LinkedIn: www.linkedin.com/in/anas41
+Email: muhammadanaas.334@gmail.com
